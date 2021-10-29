@@ -1,4 +1,6 @@
-hared application/kernel submission and completion ring pairs, for
+// SPDX-License-Identifier: GPL-2.0
+/*
+ * Shared application/kernel submission and completion ring pairs, for
  * supporting fast/efficient IO.
  *  *
  *   * A note on the read/write ordering memory barriers that are matched between
