@@ -1,4 +1,6 @@
-sic worker thread pool for io_uring
+// SPDX-License-Identifier: GPL-2.0
+/*
+ * Basic worker thread pool for io_uring
  *
  *  * Copyright (C) 2019 Jens Axboe
  *   *
